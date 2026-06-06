@@ -1,0 +1,232 @@
+Index    Pattern     Matching words and its location range(s)
+-----------------------------------------------------------------------
+1        anan       
+                    -- No matching found --  
+
+2        ith        
+                    withinthe                2 - 4
+                    period?Withthe           9 - 11
+                    proproprowiththe         11 - 13
+                    cameraswith              9 - 11
+
+3        ababcabab  
+                    sample456ababcabab       10 - 18
+                    alargeababcabab          7 - 15
+                    forwardababcabab         8 - 16
+                    Canweababcabab           6 - 14
+                    theababcababPJ           4 - 12
+                    funcababcababtion        5 - 13
+
+4        as         
+                    AMCWToFintaaintcameras   21 - 22
+                    camerasaswell            6 - 7 and 8 - 9
+                    asinanyother             1 - 2
+                    whichisasoftware         8 - 9
+                    basedcontroller          2 - 3
+                    beastraight              3 - 4
+                    measurementswas          3 - 4 and 14 - 15
+                    phasestep(by             3 - 4
+                    tothesecondphase         14 - 15
+                    PJineachphase            11 - 12
+                    analyased                6 - 7
+                    betweenphase             10 - 11
+                    measurements.            3 - 4
+                    cameraswith              6 - 7
+
+5        on         
+                    thedongleoroororo.       5 - 6
+                    conceptmaybe             2 - 3
+                    mentioned                6 - 7
+                    twomodulationtypes       12 - 13
+                    applications.            10 - 11
+                    Inaddition,              9 - 10
+                    thedongle                5 - 6
+                    basedcontroller          7 - 8
+                    onrangeintaaint          1 - 2
+                    tothesecondphase         9 - 10
+                    stepandsoon,             10 - 11
+                    inthecorrelation         15 - 16
+                    funcababcababtion        16 - 17
+                    integration              10 - 11
+                    stepaconstant(a          7 - 8
+                    integratintaaintion      18 - 19
+                    aconstant(               3 - 4
+                    thetheethePJonrange      13 - 14
+                    shortintegration         15 - 16
+
+6        th         
+                    exploretheethethe        8 - 9 and 12 - 13 and 15 - 16
+                    relativetheethely        9 - 10 and 13 - 14
+                    ofthePJandRJ             3 - 4
+                    intheproproprolight      3 - 4
+                    sourceofthe              9 - 10
+                    thantheNyquist           1 - 2 and 5 - 6
+                    thedongleoroororo.       1 - 2
+                    Also,this                6 - 7
+                    usedtofindthe            11 - 12
+                    jitterinthelight         9 - 10
+                    sourceofthe              9 - 10
+                    imagingtheethe           8 - 9 and 12 - 13
+                    asinanyother             9 - 10
+                    relevantheethet          8 - 9 and 12 - 13
+                    modifytheDSP             7 - 8
+                    thedongle                1 - 2
+                    thismaynot               1 - 2
+                    theinfluence             1 - 2
+                    oftheperiodic            3 - 4
+                    jittertheethe            7 - 8 and 11 - 12
+                    theababcababPJ           1 - 2
+                    amounttheethein          7 - 8 and 11 - 12
+                    theoroororofirst         1 - 2
+                    tothesecondphase         3 - 4
+                    inthecorrelation         3 - 4
+                    withinthe                3 - 4 and 7 - 8
+                    period?Withthe           10 - 11 and 12 - 13
+                    influenceofthe           12 - 13
+                    fixedtheethe             6 - 7 and 10 - 11
+                    amount),then             9 - 10
+                    furtheroroororo          4 - 5
+                    proproprowiththe         12 - 13 and 14 - 15
+                    steps,duringthe          13 - 14
+                    ),thenit                 3 - 4
+                    fortheinfluenceof        4 - 5
+                    thetheethePJonrange      1 - 2 and 4 - 5 and 8 - 9
+                    theAMCWToF               1 - 2
+                    cameraswith              10 - 11
+
+7        oroororo   
+                    Thehighoroororo          8 - 15
+                    qualityoroororoof        8 - 15
+                    thedongleoroororo.       10 - 17
+                    engineinoroororo         9 - 16
+                    theoroororofirst         4 - 11
+                    furtheroroororo          8 - 15
+                    oroororoperiods.         1 - 8
+
+8        tt         
+                    beusedintaaintto         14 - 15
+                    bysettinga               5 - 6
+                    jitterinthelight         3 - 4
+                    jittertheethe            3 - 4
+                    amounttheethein          6 - 7
+                    difficultto              9 - 10
+
+9        to         
+                    beusedintaaintto         15 - 16
+                    oscillator               8 - 9
+                    frequencytoget           10 - 11
+                    usedtofindthe            5 - 6
+                    itmaypossibleto          14 - 15
+                    inordertointaaint        8 - 9
+                    tothesecondphase         1 - 2
+                    difficultto              10 - 11
+                    proproprotodevelop       10 - 11
+
+10       and        
+                    ratesandhigh             6 - 8
+                    ofthePJandRJ             8 - 10
+                    andcorrecting            1 - 3
+                    stepandsoon,             5 - 7
+                    randombehaviour          2 - 4
+
+11       ter        
+                    intermediate             3 - 5
+                    jitterinthelight         4 - 6
+                    Chapter7,                5 - 7
+                    jittertheethe            4 - 6
+                    determining              3 - 5
+
+12       propropro  
+                    SDRsproproprocan         5 - 13
+                    intheproproprolight      6 - 14
+                    aforepropropro           6 - 14
+                    itproproprocanbe         3 - 11
+                    proproprowiththe         1 - 9
+                    proproprotodevelop       1 - 9
+
+13       theethe    
+                    exploretheethethe        8 - 14
+                    relativetheethely        9 - 15
+                    imagingtheethe           8 - 14
+                    relevantheethet          8 - 14
+                    jittertheethe            7 - 13
+                    amounttheethein          7 - 13
+                    fixedtheethe             6 - 12
+                    thetheethePJonrange      4 - 10
+
+14       ent        
+                    mentioned                2 - 4
+                    measurementswas          9 - 11
+                    measurements.            9 - 11
+
+15       tio        
+                    mentioned                4 - 6
+                    twomodulationtypes       10 - 12
+                    applications.            8 - 10
+                    Inaddition,              7 - 9
+                    inthecorrelation         13 - 15
+                    funcababcababtion        14 - 16
+                    integration              8 - 10
+                    integratintaaintion      16 - 18
+                    shortintegration         13 - 15
+
+16       mera       
+                    AMCWToFintaaintcameras   18 - 21
+                    camerasaswell            3 - 6
+                    cameraswith              3 - 6
+
+17       tter       
+                    jitterinthelight         3 - 6
+                    jittertheethe            3 - 6
+
+18       freq       
+                    frequencies              1 - 4
+                    frequencytoget           1 - 4
+                    frequency(less           1 - 4
+                    frequency)in             1 - 4
+
+19       the        
+                    exploretheethethe        8 - 10 and 12 - 14 and 15 - 17
+                    relativetheethely        9 - 11 and 13 - 15
+                    ofthePJandRJ             3 - 5
+                    intheproproprolight      3 - 5
+                    sourceofthe              9 - 11
+                    thantheNyquist           5 - 7
+                    thedongleoroororo.       1 - 3
+                    usedtofindthe            11 - 13
+                    jitterinthelight         9 - 11
+                    sourceofthe              9 - 11
+                    imagingtheethe           8 - 10 and 12 - 14
+                    asinanyother             9 - 11
+                    relevantheethet          8 - 10 and 12 - 14
+                    modifytheDSP             7 - 9
+                    thedongle                1 - 3
+                    theinfluence             1 - 3
+                    oftheperiodic            3 - 5
+                    jittertheethe            7 - 9 and 11 - 13
+                    theababcababPJ           1 - 3
+                    amounttheethein          7 - 9 and 11 - 13
+                    theoroororofirst         1 - 3
+                    tothesecondphase         3 - 5
+                    inthecorrelation         3 - 5
+                    withinthe                7 - 9
+                    period?Withthe           12 - 14
+                    influenceofthe           12 - 14
+                    fixedtheethe             6 - 8 and 10 - 12
+                    amount),then             9 - 11
+                    furtheroroororo          4 - 6
+                    proproprowiththe         14 - 16
+                    steps,duringthe          13 - 15
+                    ),thenit                 3 - 5
+                    fortheinfluenceof        4 - 6
+                    thetheethePJonrange      1 - 3 and 4 - 6 and 8 - 10
+                    theAMCWToF               1 - 3
+
+20       intaaint   
+                    beusedintaaintto         7 - 14
+                    AMCWToFintaaintcameras   8 - 15
+                    inordertointaaint        10 - 17
+                    onrangeintaaint          8 - 15
+                    integratintaaintion      9 - 16
+                    periodintaaint.But       7 - 14
+

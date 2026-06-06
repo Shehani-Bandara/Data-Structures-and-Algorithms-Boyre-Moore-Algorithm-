@@ -1,0 +1,22 @@
+Index, j   jth Pattern          BCT for jth pattern                               
+=====================================================================================
+1          anan                 a:1 n:1 *:4                                       
+2          ith                  i:2 t:1 h:1 *:3                                   
+3          ababcabab            a:1 b:1 c:4 *:9                                   
+4          as                   a:1 s:1 *:2                                       
+5          on                   o:1 n:1 *:2                                       
+6          th                   t:1 h:1 *:2                                       
+7          oroororo             o:1 r:1 *:8                                       
+8          tt                   t:1 *:2                                           
+9          to                   t:1 o:1 *:2                                       
+10         and                  a:2 n:1 d:1 *:3                                   
+11         ter                  t:2 e:1 r:1 *:3                                   
+12         propropro            p:2 r:1 o:1 *:9                                   
+13         theethe              t:2 h:1 e:1 *:7                                   
+14         ent                  e:2 n:1 t:1 *:3                                   
+15         tio                  t:2 i:1 o:1 *:3                                   
+16         mera                 m:3 e:2 r:1 a:1 *:4                               
+17         tter                 t:2 e:1 r:1 *:4                                   
+18         freq                 f:3 r:2 e:1 q:1 *:4                               
+19         the                  t:2 h:1 e:1 *:3                                   
+20         intaaint             i:2 n:1 t:1 a:3 *:8                               

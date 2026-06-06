@@ -1,0 +1,19 @@
+Thehighoroororo sample456ababcabab ratesandhigh qualityoroororoof SDRsproproprocan 
+beusedintaaintto exploretheethethe relativetheethely largerangeof frequencies 
+ofthePJandRJ intheproproprolight sourceofthe AMCWToFintaaintcameras bysettinga 
+suitablelocal oscillator frequencytoget alargeababcabab intermediate frequency(less 
+thantheNyquist frequency)in thedongleoroororo. Also,this conceptmaybe usedtofindthe 
+jitterinthelight sourceofthe aforepropropro mentioned twomodulationtypes ofToFrange 
+imagingtheethe camerasaswell asinanyother relevantheethet applications. Inaddition, 
+itmaypossibleto modifytheDSP engineinoroororo thedongle whichisasoftware 
+basedcontroller inordertointaaint getmaximum benefitbut thismaynot beastraight 
+forwardababcabab process. In Chapter7, theinfluence oftheperiodic jittertheethe 
+onrangeintaaint measurementswas investigated. Canweababcabab compensate 
+theababcababPJ amounttheethein theoroororofirst phasestep(by determining 
+andcorrecting it)before itproceeds tothesecondphase stepandsoon, inthecorrelation 
+funcababcababtion withinthe integration period?Withthe influenceofthe PJineachphase 
+stepaconstant(a fixedtheethe amount),then itproproprocanbe furtheroroororo analyased 
+proproprowiththe crosstalking betweenphase steps,duringthe integratintaaintion 
+periodintaaint.But ifitisnot aconstant( randombehaviour ),thenit willbe difficultto 
+compensate fortheinfluenceof thetheethePJonrange measurements. aretrying 
+proproprotodevelop theAMCWToF cameraswith shortintegration oroororoperiods.
